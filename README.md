@@ -1,6 +1,6 @@
-[Sentiment Analysis Bar Graph](https://github.com/Tanzim-prog/sentiment_analysis_bing_lexicon/blob/master/Screen%20Shots/Rplot.jpeg?raw=true)
+[Sentiment Analysis Bar Graph](https://github.com/Tanzim-prog/sentiment_analysis_bing_lexicon/blob/master/Screen%20Shots/Rplot.jpeg)
 
-[Sentiment Analysis Score](https://github.com/Tanzim-prog/sentiment_analysis_bing_lexicon/blob/master/Screen%20Shots/Sentiment%20Count.jpg?raw=true)
+[Sentiment Analysis Score](https://github.com/Tanzim-prog/sentiment_analysis_bing_lexicon/blob/master/Screen%20Shots/Sentiment%20Count.jpg)
 
 # Sentiment Analysis using Bing Lexicon
 
@@ -13,39 +13,39 @@ The methods followed in this project are:
 
 ## Data Collecting
 
-* Tools Used *
-- RStudio
-- R programming language
-- Selector Gadget (Chrome extension)
+*Tools Used*
+-RStudio
+-R programming language
+-Selector Gadget (Chrome extension)
 
-* Libraries Used *
-- rvest
-- dplyr
+*Libraries Used*
+-rvest
+-dplyr
 
 ## Data Processing
 
-* Tools Used *
-- RStudio
-- R programming language
+*Tools Used*
+-RStudio
+-R programming language
 
-* Libraries Used *
-- openxlsx
-- readxl
-- stringr
-- tm
+*Libraries Used*
+-openxlsx
+-readxl
+-stringr
+-tm
 
 ## Sentiment Analysis
 
-* Tools Used *
+*Tools Used*
 - RStudio
 - R programming language
 - Bing Lexicon
 
-* Libraries Used *
-- readxl
-- tidyverse
-- tidytext
-- ggplot2
+*Libraries Used*
+-readxl
+-tidyverse
+-tidytext
+-ggplot2
 
 ## For detailed documentation please visit and download files from the link
 (https://github.com/Tanzim-prog/sentiment_analysis_bing_lexicon/tree/master/Documentation)
