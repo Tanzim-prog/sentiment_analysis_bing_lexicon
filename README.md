@@ -1,6 +1,6 @@
-[Sentiment Analysis Bar Graph](Screen Shots/Rplot.jpeg)
+![Sentiment Analysis Bar Graph](Screen Shots/Rplot.jpeg)
 
-[Sentiment Analysis Score](Screen Shots/Sentiment Count.jpg)
+![Sentiment Analysis Score](Screen Shots/Sentiment Count.jpg)
 
 # Sentiment Analysis using Bing Lexicon
 
